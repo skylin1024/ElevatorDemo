@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ElevatorDemo</string>
+    <!--高德地图-->
+    <string name="map_key">772b1a0bf49d3a3117f2fbd8b06acc74</string>>
+</resources>
